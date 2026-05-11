@@ -1,5 +1,5 @@
-# project-1
-project (Data Analysis: Healthcare Appointment No-Show Prediction)
+# # Healthcare No-Show Prediction
+ML pipeline for predicting patient appointment no-shows using Decision Tree classifier and Power BI dashboard
 This project aims to predict whether patients will miss their healthcare appointments using machine learning models. It also provides data-driven insights through interactive Power BI dashboards to optimize appointment scheduling and reduce no-show rates.
 ### 📐 **Project Workflow**
 1. **Data Collection and Cleaning**
